@@ -14,6 +14,7 @@
 		042F01E42CCA8E9B0004DFCB /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 042F01E32CCA8E9B0004DFCB /* Assets.xcassets */; };
 		042F01E72CCA8E9B0004DFCB /* Base in Resources */ = {isa = PBXBuildFile; fileRef = 042F01E62CCA8E9B0004DFCB /* Base */; };
 		042F01F12CCA93BF0004DFCB /* DevBranchViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 042F01F02CCA93BF0004DFCB /* DevBranchViewController.swift */; };
+		042F01F52CCA9B0D0004DFCB /* DevFirstBranchViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 042F01F42CCA9B0D0004DFCB /* DevFirstBranchViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		042F01E62CCA8E9B0004DFCB /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		042F01E82CCA8E9B0004DFCB /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		042F01F02CCA93BF0004DFCB /* DevBranchViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DevBranchViewController.swift; sourceTree = "<group>"; };
+		042F01F42CCA9B0D0004DFCB /* DevFirstBranchViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DevFirstBranchViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +63,7 @@
 				042F01DA2CCA8E980004DFCB /* AppDelegate.swift */,
 				042F01DC2CCA8E980004DFCB /* SceneDelegate.swift */,
 				042F01DE2CCA8E980004DFCB /* ViewController.swift */,
+				042F01F42CCA9B0D0004DFCB /* DevFirstBranchViewController.swift */,
 				042F01F02CCA93BF0004DFCB /* DevBranchViewController.swift */,
 				042F01E02CCA8E980004DFCB /* Main.storyboard */,
 				042F01E32CCA8E9B0004DFCB /* Assets.xcassets */,
@@ -145,6 +148,7 @@
 				042F01DF2CCA8E980004DFCB /* ViewController.swift in Sources */,
 				042F01DB2CCA8E980004DFCB /* AppDelegate.swift in Sources */,
 				042F01DD2CCA8E980004DFCB /* SceneDelegate.swift in Sources */,
+				042F01F52CCA9B0D0004DFCB /* DevFirstBranchViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
