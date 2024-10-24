@@ -12,18 +12,11 @@ class DevBranchViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
 
-        // Do any additional setup after loading the view.
+        //新建分之
+//        Xcode新建了个DevBranchViewController类，在用Dev分之commit并Push后，仓库能看到master和dev代码，但是克隆只能克隆master的代码，并不会把dev的代码一并克隆下来
     }
     
 
-    /*
-    // MARK: - Navigation
-
-    // In a storyboard-based application, you will often want to do a little preparation before navigation
-    override func prepare(for segue: UIStoryboardSegue, sender: Any?) {
-        // Get the new view controller using segue.destination.
-        // Pass the selected object to the new view controller.
-    }
-    */
+   
 
 }
