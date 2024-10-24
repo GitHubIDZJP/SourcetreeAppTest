@@ -16,7 +16,7 @@ class DevBranchViewController: UIViewController {
         //新建分之
 //        Xcode新建了个DevBranchViewController类，在用Dev分之commit并Push后，仓库能看到master和dev代码，但是克隆只能克隆master的代码，并不会把dev的代码一并克隆下来
         
-//    Version: 6
+//    Version: 6.1
 //    Mark:  新建分之并合并到master主分之
 //    描述：
 //    1 新建分之
