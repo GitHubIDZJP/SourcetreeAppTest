@@ -14,7 +14,11 @@
 		042F01E42CCA8E9B0004DFCB /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 042F01E32CCA8E9B0004DFCB /* Assets.xcassets */; };
 		042F01E72CCA8E9B0004DFCB /* Base in Resources */ = {isa = PBXBuildFile; fileRef = 042F01E62CCA8E9B0004DFCB /* Base */; };
 		042F01F12CCA93BF0004DFCB /* DevBranchViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 042F01F02CCA93BF0004DFCB /* DevBranchViewController.swift */; };
+<<<<<<< HEAD
 		042F01F72CCA9D2A0004DFCB /* d_devViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 042F01F62CCA9D2A0004DFCB /* d_devViewController.swift */; };
+=======
+		042F01F52CCA9B0D0004DFCB /* DevFirstBranchViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 042F01F42CCA9B0D0004DFCB /* DevFirstBranchViewController.swift */; };
+>>>>>>> 42f1ce2207d45e90521da6834bfbe6ae92bac19d
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -27,7 +31,11 @@
 		042F01E62CCA8E9B0004DFCB /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		042F01E82CCA8E9B0004DFCB /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		042F01F02CCA93BF0004DFCB /* DevBranchViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DevBranchViewController.swift; sourceTree = "<group>"; };
+<<<<<<< HEAD
 		042F01F62CCA9D2A0004DFCB /* d_devViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = d_devViewController.swift; sourceTree = "<group>"; };
+=======
+		042F01F42CCA9B0D0004DFCB /* DevFirstBranchViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DevFirstBranchViewController.swift; sourceTree = "<group>"; };
+>>>>>>> 42f1ce2207d45e90521da6834bfbe6ae92bac19d
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +71,7 @@
 				042F01DA2CCA8E980004DFCB /* AppDelegate.swift */,
 				042F01DC2CCA8E980004DFCB /* SceneDelegate.swift */,
 				042F01DE2CCA8E980004DFCB /* ViewController.swift */,
+				042F01F42CCA9B0D0004DFCB /* DevFirstBranchViewController.swift */,
 				042F01F02CCA93BF0004DFCB /* DevBranchViewController.swift */,
 				042F01F62CCA9D2A0004DFCB /* d_devViewController.swift */,
 				042F01E02CCA8E980004DFCB /* Main.storyboard */,
@@ -149,6 +158,7 @@
 				042F01DB2CCA8E980004DFCB /* AppDelegate.swift in Sources */,
 				042F01F72CCA9D2A0004DFCB /* d_devViewController.swift in Sources */,
 				042F01DD2CCA8E980004DFCB /* SceneDelegate.swift in Sources */,
+				042F01F52CCA9B0D0004DFCB /* DevFirstBranchViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
